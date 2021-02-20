@@ -23,7 +23,7 @@ Crie um diretório via terminal ou via gerenciador de arquivos.
 
 No seu terminal acesse essa pasta e execute o comando abaixo:
 
-```git clone```
+```git clone https://github.com/KelvinLopes/desafio-11-react-native-gorestaurant```
 
 Após ter acesso ao diretório do projeto rode esse comando para instalar todas as dependências:
 
