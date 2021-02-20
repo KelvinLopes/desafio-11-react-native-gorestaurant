@@ -59,8 +59,6 @@ ou caso use o ip de sua máquina:
 
 Caso não consiga acessar as informações da API no Android, 
 
-coloque o ip de sua máquina conforme as dica do arquivo ```baseUrl.example.ts.```
-
-e executar o comando ```adb reverse tcp:3333 tcp:3333```
+coloque o ip de sua máquina e executar o comando ```adb reverse tcp:3333 tcp:3333```
 
 Rodar os testes no projeto ```yarn test```
