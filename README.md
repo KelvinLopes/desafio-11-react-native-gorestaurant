@@ -51,6 +51,10 @@ e após
 
 Rodar a fake api ```yarn json-server server.json -p 3333```
 
+ou caso use o ip de sua máquina:
+
+```yarn json-server server.json  --host mumber_ip_your_machine -p 3333```
+
 # Dica Android
 
 Caso não consiga acessar as informações da API no Android, 
